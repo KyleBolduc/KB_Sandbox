@@ -1,0 +1,8 @@
+Skillset:
+1. R programming
+2. Financial Analysis
+3. Microsoft Excel & Office
+4. Microsoft Azure Machine Learning Studio
+5. Tableau
+6. PowerBI
+7. SQL Queries
