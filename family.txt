@@ -1,3 +1,7 @@
 Wife = Angela
 Son = Troy(12)
 Daughter = Cora(10)
+Nephew: Dylan (12)
+Niece: Brooklyn (9)
+Nephew: Brady (7)
+Nephew: Richard (1)
