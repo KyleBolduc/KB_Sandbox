@@ -7,9 +7,14 @@ Skillset:
 6. PowerBI
 7. SQL Queries
 
-
 Hobbies:
 1. Playing Guitar
 2. Hiking
 3. Fitness Classes/Working Out
 4. Boston Sports (Red Sox, Celtics, Patriots)
+
+
+Interests:
+1. Data Science
+2. Music / Guitar
+3. Space Exploration 
