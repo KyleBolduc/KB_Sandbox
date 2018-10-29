@@ -7,4 +7,8 @@
 7. Monadnock
 8. Douglas
 9. Rattlesnake (Holderness, NH)
+10. Zealand Mountain
+11. North Brother (ME)
+12. Mount Major (NH)
+13. Mt Hedgehog (NH)
 
